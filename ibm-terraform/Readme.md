@@ -32,17 +32,18 @@ This repository contains Terraform configurations for setting up a virtual machi
 2. **Initialize Terraform**
 
     terraform init
+   
 
-3. **Plan the Deployment**
+4. **Plan the Deployment**
 
     terraform plan
 
-4. **Apply the Configuration**
+5. **Apply the Configuration**
 
     terraform apply
  
 
-5. **Verify the Deployment**
+6. **Verify the Deployment**
 
     Check your IBM Cloud dashboard to verify the VM instance is created as expected.
 
