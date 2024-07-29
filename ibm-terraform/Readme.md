@@ -22,7 +22,7 @@ This repository contains Terraform configurations for setting up a virtual machi
 ## Getting Started
 
 1. **Clone the Repository**
-    git clone git@github.com:Sai-Aditya-American-Airlines/IBM-Cloud-VSI-Setup.git
+    Clone the repo
     cd IBM-Cloud-VSI-Setup
     cd terraform/ibm/testvm
     export IC_API_KEY=""   #Pass the value 
